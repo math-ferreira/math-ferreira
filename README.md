@@ -9,7 +9,7 @@
 <br />
 
 Hi, I'm Matheus, a Back End Developer 🚀 from Brazil.
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=math-ferreira&show_icons=true&theme=gotham" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
 
