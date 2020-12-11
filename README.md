@@ -19,7 +19,9 @@ Hi, I'm Matheus, a Back End Developer 🚀 from Brazil.
 - 🤓 Blogs on [Medium](https://medium.com/@mat.s.ferreira/):
 - 💬 Ask me about anything, I am happy to help;
 <br/>
+
 **Languages and Tools:**  
+
 <br/>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
