@@ -13,7 +13,7 @@ Hi, I'm Matheus, a Back End Developer 🚀 from Brazil.
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I'm currently working on something cool at Itaú-Unibanco :wink:;
+- 👨🏽‍💻 I'm currently working on something cool at Itaú :wink:;
 - 🌱 I’m currently learning Kotlin and Java 8+; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [Whatsapp](https://api.whatsapp.com/send?phone=5511981973409);
