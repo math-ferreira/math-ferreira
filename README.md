@@ -1,6 +1,7 @@
 ### Hello! I'm Matheus. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
+<a>
 [![Linkedin: Matheus Ferreira](https://img.shields.io/badge/-MatheusFerreira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/math-ferreira/)](https://www.linkedin.com/in/math-ferreira/)
+  </a>
 <a href="https://discord.com/users/7776">
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
