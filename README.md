@@ -3,7 +3,7 @@
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
 
-[![Linkedin: Matheus Ferreira](https://img.shields.io/badge/-MianJawadAhmad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/math-ferreira/)](https://www.linkedin.com/in/math-ferreira/)
+[![Linkedin: Matheus Ferreira](https://img.shields.io/badge/-MatheusFerreira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/math-ferreira/)](https://www.linkedin.com/in/math-ferreira/)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=math-ferreira.math-ferreira)
 
