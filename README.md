@@ -18,11 +18,9 @@ Hi, I'm Matheus, a Back End Developer 🚀 from Brazil.
 - 📫 How to reach me: [Whatsapp](https://api.whatsapp.com/send?phone=5511981973409);
 - 🤓 Blogs on [Medium](https://medium.com/@mat.s.ferreira/):
 - 💬 Ask me about anything, I am happy to help;
-<br/>
 
 **Languages and Tools:**  
 
-<br/>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
@@ -31,7 +29,6 @@ Hi, I'm Matheus, a Back End Developer 🚀 from Brazil.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 <br/>
-
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=math-ferreira&langs_count=8&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
