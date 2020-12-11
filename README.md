@@ -10,7 +10,6 @@
 
 Hi, I'm Matheus, a Back End Developer 🚀 from Brazil.
   <img align="right" alt="GIF" src="https://github-readme-stats.vercel.app/api/top-langs/?username=math-ferreira&langs_count=8&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" width="500" height="320" />
-  <br />
   
 **Talking about Personal Stuffs:**
 
@@ -28,7 +27,7 @@ Hi, I'm Matheus, a Back End Developer 🚀 from Brazil.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://github.com/jelastic/icons/blob/master/kafka/jelastic/icons/logo_32x32.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
+<br/>
 <br/>
 
 
