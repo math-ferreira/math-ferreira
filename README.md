@@ -2,6 +2,7 @@
 <a href="https://discord.com/users/7776">
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
+
 [![Linkedin: MianJawadAhmad](https://img.shields.io/badge/-MianJawadAhmad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mianjawadahmad/)](https://www.linkedin.com/in/mianjawadahmad/)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=math-ferreira.math-ferreira)
