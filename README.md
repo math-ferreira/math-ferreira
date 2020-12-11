@@ -18,7 +18,7 @@ Hi, I'm Matheus, a Back End Developer 🚀 from Brazil.
 - 🌱 I’m currently learning Kotlin and Java 8+; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [Whatsapp](https://api.whatsapp.com/send?phone=5511981973409);
-- Blogs on [Medium](medium.com/@mat.s.ferreira/):
+- 🤓 Blogs on [Medium](medium.com/@mat.s.ferreira/):
 
 **Languages and Tools:**  
 
