@@ -4,7 +4,6 @@
 </a>
 
 [![Linkedin: Matheus Ferreira](https://img.shields.io/badge/-MatheusFerreira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/math-ferreira/)](https://www.linkedin.com/in/math-ferreira/)
-
 ![](https://visitor-badge.glitch.me/badge?page_id=math-ferreira.math-ferreira)
 
 <br />
