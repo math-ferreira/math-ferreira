@@ -25,9 +25,3 @@ Hi, I'm Matheus, a Back End Developer 🚀 from Brazil.
 <code><img height="20" src="https://github.com/jelastic/icons/blob/master/kafka/jelastic/icons/logo_32x32.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-<br/>
-
-<a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=math-ferreira&hide=css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
