@@ -13,7 +13,7 @@ Hi, I'm Matheus, a Back End Developer 🚀 from Brazil.
 - 👨🏽‍💻 I'm currently working on something cool at [Sinqia](https://www.sinqia.com.br/) :wink:;
 - 🌱 I’m currently learning Kotlin and Java 8+; 
 - 📫 How to reach me: [Whatsapp](https://api.whatsapp.com/send?phone=5511981973409);
-- 🤓 Blogs on [Medium](https://medium.com/@mat.s.ferreira/):
+- 🤓 Blogs on [Medium](https://mat-s-ferreira.medium.com/):
 - 💬 Ask me about anything, I am happy to help;
 
 **Languages and Tools:**  
