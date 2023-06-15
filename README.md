@@ -1,7 +1,6 @@
 ### Hello! I'm Matheus. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![Linkedin: Matheus Ferreira](https://img.shields.io/badge/-MatheusFerreira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/math-ferreira/)](https://www.linkedin.com/in/math-ferreira/)
-![](https://visitor-badge.glitch.me/badge?page_id=math-ferreira.math-ferreira)
 
 <br />
 
