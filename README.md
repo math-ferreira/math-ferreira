@@ -11,7 +11,7 @@ Hi, I'm Matheus, a Back End Developer 🚀 from Brazil.
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I'm currently working on something cool at [C6 Bank](https://www.c6bank.com.br/) :wink:;
-- 🌱 I’m currently learning Kotlin and Javalin; 
+- 🌱 I’m currently using Java and Kotlin as programming language; 
 - 📫 How to reach me: [Whatsapp](https://api.whatsapp.com/send?phone=5511981973409);
 - 🤓 Blogs on [Medium](https://mat-s-ferreira.medium.com/):
 - 💬 Ask me about anything, I am happy to help;
