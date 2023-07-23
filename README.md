@@ -4,12 +4,12 @@
 
 <br />
 
-Hi, I'm Matheus, a Back End Developer 🚀 from Brazil. <br> 👉 [Click here to see my bio link](https://bio.link/matheusferreira) , there you can see my pages and more details about me.
+Hi, I'm Matheus, a Back End Developer 🚀 from Portugal. <br> 👉 [Click here to see my bio link](https://bio.link/matheusferreira) , there you can see my pages and more details about me.
   <img align="right" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=math-ferreira&show_icons=true&theme=gotham" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I'm currently working on something cool at [C6 Bank](https://www.c6bank.com.br/) :wink:;
+- 👨🏽‍💻 I'm currently working on something cool at [Aubay Portugal](https://www.aubay.pt/) :wink:;
 - 🌱 I’m currently using Java and Kotlin as programming language; 
 - 📫 How to reach me: [Whatsapp](https://api.whatsapp.com/send?phone=351912056220);
 - 🤓 Blogs on [Medium](https://mat-s-ferreira.medium.com/):
