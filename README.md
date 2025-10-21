@@ -9,7 +9,7 @@ Hi, I'm Matheus, a Back End Developer 🚀 from Portugal. <br> 👉 [Click here 
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I'm currently working on something cool at [Aubay Portugal](https://www.aubay.pt/) :wink:;
+- 👨🏽‍💻 I'm currently working on something cool at [Hexa Consulting](https://www.hexa-group.pt/hexa-consulting) :wink:;
 - 🌱 I’m currently using Java and Kotlin as programming language; 
 - 📫 How to reach me: [Whatsapp](https://api.whatsapp.com/send?phone=351912056220);
 - 🤓 Blogs on [Medium](https://mat-s-ferreira.medium.com/):
